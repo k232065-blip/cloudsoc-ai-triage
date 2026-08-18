@@ -1,0 +1,1 @@
+Rule deployed and verified via config load (7007 rules active), but live-fire root login testing was intentionally skipped to avoid violating AWS root-account best practices.
