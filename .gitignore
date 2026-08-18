@@ -1,14 +1,1 @@
-# Never commit credentials
-*credentials*
-*accessKeys*
-*.csv
-*api*key*
 
-# Terraform state files (can contain sensitive resource data)
-infra/terraform.tfstate
-infra/terraform.tfstate.backup
-infra/.terraform/
-
-# Python cache
-__pycache__/
-*.pyc
